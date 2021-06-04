@@ -7,3 +7,4 @@
 * Introduction to GitHub
 * Created a GitHub organization
 * Become comfortable with pulling and pushing changes
+* Error handling
